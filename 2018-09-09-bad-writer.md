@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Response to Bad Writer
 ---
 
 ## Response to Bad Writer
