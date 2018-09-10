@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Camille
 ---
 
 ## Response to Bad Writer
