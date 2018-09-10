@@ -1,10 +1,10 @@
 ---
 layout: post
-author: Camille
+author: Camille Xue
+title: Response to Bad Writer
 ---
 
-## Response to Bad Writer
-CAMILLE XUE | SEPT. 9 2018
+SEPT. 9 2018
 
 While I was reading Bad Writer, all I could think about was how bad I am at writing. In general, I agree with the definition of bad writing that Ahmad presents in this piece, so most of my thoughts were about how it applies to me. I never thought I was great at writing, but now I am pretty sure I would be classified as a “bad writer” according to Michael Mohammed Ahmad. Even though there were plenty of examples of bad writing in the piece, I still don’t feel like I could distinguish bad writing from good writing. I don’t know what phrases are cliche or are bad metaphors. I also felt particularly bad when I read the line about what you read as food for you as a writer. I don’t read. My writer diet is nonexistent. 
 
