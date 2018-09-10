@@ -2,6 +2,7 @@
 title:Bad Writer
 layout:post
 ---
+
 ## Response to Bad Writer
 CAMILLE XUE | SEPT. 9 2018
 
