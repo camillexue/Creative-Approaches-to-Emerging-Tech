@@ -1,6 +1,5 @@
 ---
-title:Bad Writer
-layout:post
+layout: post
 ---
 
 ## Response to Bad Writer
