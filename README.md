@@ -12,3 +12,5 @@ This is my blog for the class Creative Approaches to Emerging Technology. You ca
 [4. PROJECT I - DATA SHOTS](./2018-10-01-project-1.html)
 
 [5. The Internet](./2018-10-16-the-internet.html)
+
+[6. PROJECT II - OPT OUT](./2018-10-31-opt-out.html)
